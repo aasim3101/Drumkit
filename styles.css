@@ -44,8 +44,8 @@ footer {
   background-image: url('images/kick.png');
 }
 
-.; {
-  background-image: url('images/kick.png');
+.w {
+  background-image: url('images/tom1.png');
 }
 
 .set {
@@ -77,7 +77,7 @@ footer {
   text-shadow: 3px 0 #DBEDF3;
   border-radius: 15px;
   display: inline-block;
-  width: 150px;
+  width: 100px;
   height: 150px;
   text-align: center;
   margin: 5px;
