@@ -38,8 +38,8 @@ function makeSound(key) {
     var kick = new Audio("sounds/kick-bass.mp3");
     kick.play();
       break;
-    case ";":
-    var kick = new Audio("sounds/kick-bass.mp3");
+    case "w":
+    var kick = new Audio("sounds/tom-1.mp3");
     kick.play();
       break;
     default:
