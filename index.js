@@ -11,7 +11,7 @@ for(var i=0; i<document.querySelectorAll(".drum").length; i++){
 function makeSound(key) {
   switch (key) {
     case "f":
-    var tom1 = new Audio("sounds/tom-1.mp3");
+    var tom1 = new Audio("sounds/RIDE1.wav");
     tom1.play();
       break;
     case "a":
